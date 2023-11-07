@@ -19,3 +19,11 @@ git pull
 ```
 bash yourfile_name.sh
 ```
+```
+python steup.py install
+```
+## Another way: you can mention -e . in your requirement file and you can run
+
+```
+pip install requirements.txt
+```
