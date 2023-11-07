@@ -13,3 +13,9 @@ git add .
 ```
 git commit -m 'This is first commit'
 ```
+```
+git pull 
+```
+```
+bash yourfile_name.sh
+```
